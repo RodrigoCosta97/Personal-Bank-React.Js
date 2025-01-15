@@ -1,0 +1,13 @@
+fazer migração total para styled components
+    https://styled-components.com/docs/advanced#theming
+    https://styled-components.com/docs/api#createglobalstyle
+pasta para theme
+
+
+fazer um component layout
+    https://reactrouter.com/en/main/start/concepts#layout-routes
+
+organizar diretorias
+
+"limpar" src
+    ter uma pasta de utils

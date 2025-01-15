@@ -1,0 +1,20 @@
+export { TableIncomeIcon } from "./buttons/TableIncomeIcon";
+export { TableExpenseIcon } from "./buttons/TableExpenseIcon";
+export { Olho } from "./buttons/olho";
+export { DashboardIcon } from "./buttons/DashboardIcon";
+export { TransactionsIcon } from "./buttons/TransactionsIcon";
+export { TableDeleteIcon } from "./buttons/TableDeleteIcon";
+export { TableAttachmentIcon } from "./buttons/TableAttachmentIcon";
+export { TableEditIcon } from "./buttons/TableEditIcon";
+export { ActionDelete } from "./buttons/ActionDelete";
+export { ActionImage } from "./buttons/ActionImage";
+export { ActionEdit } from "./buttons/ActionEdit";
+
+export { IconBalance } from "./svgs/IconBalance";
+export { IconExpense } from "./svgs/IconExpense";
+export { FacebookIcon } from "./svgs/FacebookIcon";
+export { IconIncome } from "./svgs/IconIncome";
+export { InstagramIcon } from "./svgs/InstagramIcon";
+export { LinkedInIcon } from "./svgs/LinkedInIcon";
+export { Logo } from "./svgs/Logo";
+export { TwitterIcon } from "./svgs/TwitterIcon";
